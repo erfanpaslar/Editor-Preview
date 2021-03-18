@@ -17,3 +17,15 @@ You can change colors from `app.js` file, just put as much as color you want on 
 I pre defined some colors too.
 
 You can change number of lines by changing `numberOfLines` variable.
+
+And on mobile devices will be like:
+<span style="display:block;text-align:center">
+
+<figure class="post-figure">
+<img 
+    src="images/preview_mobile.png"
+	alt="Minesweeper UI preview" ,
+    width=70%
+	>
+</figure>
+</span>

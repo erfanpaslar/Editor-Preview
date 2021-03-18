@@ -36,7 +36,7 @@ const colorsList = [
 // const colorsList = ["#015668", "#263f44", "#ffd369", "#fff1cf"];
 // const colorsList = ["#cabfab", "#dfd8c8", "#41444b", "#52575d"];
 
-const numberOfLines = 30;
+const numberOfLines = 22;
 
 function getRandomSet() {
   let randomSet = [];
